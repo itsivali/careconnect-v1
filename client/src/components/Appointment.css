@@ -1,0 +1,26 @@
+.appointment-container {
+    padding: 20px;
+}
+
+.btn {
+    transition: transform 0.2s;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+}
+
+.react-calendar {
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+}
+
+.react-calendar__tile--now {
+    background: #007bff;
+    color: white;
+}
+
+.react-calendar__tile--active {
+    background: #28a745;
+    color: white;
+}

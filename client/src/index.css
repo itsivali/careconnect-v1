@@ -1,0 +1,23 @@
+:root {
+  --bg: #282c34;
+  --header: #fff;
+  --link: #61dafb;
+  --text: hsla(0, 0%, 100%, 0.88);
+}
+.signup{
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+  align-items: center;
+  width: 400px;
+  height: 50vh;
+  border-radius: 10px;
+}
+.login{
+  margin: 2rem auto;
+  padding: 1rem 2rem;
+  align-items: center;
+  width: 400px;
+  height: 50vh;
+  border-radius: 10px;
+}
+
